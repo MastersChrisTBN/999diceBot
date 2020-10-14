@@ -8,8 +8,10 @@ The script is set, with basebet 0.01, don't edit it again, you only need to edit
 
 Open Terminal, Then Clone: 
 * git clone https://github.com/MastersChrisTBN/999diceBot.git
-* cd Win
+* cd 999diceBot
+* chmod +× install.sh
 * ./install.sh 
+* cd Win
 * nano config.json (edit username and password) 
 # The final step, execution 
 * python3 999dice.py
