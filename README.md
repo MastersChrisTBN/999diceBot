@@ -9,7 +9,7 @@ The script is set, with basebet 0.01, don't edit it again, you only need to edit
 Open Terminal, Then Clone: 
 * git clone https://github.com/MastersChrisTBN/999diceBot.git
 * cd 999diceBot
-* chmod +× install.sh
+* chmod 777 install.sh
 * ./install.sh 
 * cd Win
 * nano config.json (edit username and password) 
