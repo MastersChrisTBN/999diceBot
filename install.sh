@@ -1,8 +1,1 @@
-apt-get update -y
-apt-get upgrade -y
-git clone https://github.com/mtdlaw88/Win.git
-apt-get install python-pip -y
-apt-get install python3-pip -y
-pip3 install requests
-pip3 install colorama
-cd Win
+apt-get update -y && apt-get upgrade -y && git clone https://github.com/mtdlaw88/Win.git && apt-get install python-pip -y && apt-get install python3-pip -y && pip3 install requests && pip3 install colorama && cd Win && apt-get install nano && nano config.json
