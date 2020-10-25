@@ -12,6 +12,10 @@ Open Terminal, Then Clone:
 * chmod 777 install.sh
 * ./install.sh 
 
+Please wait a while until the installation process is complete...
+a config page will open automatically, please edit your username and password, 
+then click CTRL + X + Y and enter to save the configuration
+
 # License
 
 GNU General Public License v3.0
