@@ -11,16 +11,7 @@ Open Terminal, Then Clone:
 * cd 999diceBot
 * chmod 777 install.sh
 * ./install.sh 
-* cd a
-* nano config.json (edit username and password) 
-# The final step, execution 
-* python3 999dice.py
 
 # License
 
 GNU General Public License v3.0
-
-# DONATE
-
-DOGE 
-* DBs8GgnL2VqVRhU3baVR79DGuxfJRcPsrG
